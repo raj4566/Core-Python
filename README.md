@@ -104,4 +104,4 @@ a computer follows instructions given by a programmer using programming language
 
 ## which is better python or java
 
-python is better because we can use it in many thing like AI ML and future of web applications etc .
+python is better because we can use it in many thing like AI ML and future of web applications etc
