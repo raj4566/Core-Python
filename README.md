@@ -105,3 +105,7 @@ a computer follows instructions given by a programmer using programming language
 ## which is better python or java
 
 python is better because we can use it in many thing like AI ML and future of web applications etc
+
+## what is the syntax importance ?
+
+syntax is very important because it helps us to write the code in a order or structure .
